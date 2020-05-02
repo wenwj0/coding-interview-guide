@@ -1,13 +1,10 @@
-package chapter05.stringproblem.subject01;
+package chapter05.stringproblem;
 
-import java.util.Collection;
-import java.util.Collections;
-
-public class Main {
+public class Subject01_IsDeformation {
     public static void main(String[] args) {
         String str1 = "123";
         String str2 = "132";
-        System.out.println(new Main().isDeformation(str1,str2));
+        System.out.println(new Subject01_IsDeformation().isDeformation(str1,str2));
     }
     public boolean isDeformation(String str1, String str2){
         if(str1 == null || str2==null || str1.length()!=str2.length())

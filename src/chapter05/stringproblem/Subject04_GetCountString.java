@@ -1,12 +1,6 @@
-package chapter05.stringproblem.subject04;
+package chapter05.stringproblem;
 
-import java.util.LinkedList;
-import java.util.List;
-
-public class Main {
-    public static void main(String[] args) {
-        System.out.println(new Main().getCountString("aaabbadddffc"));
-    }
+public class Subject04_GetCountString {
     public String getCountString(String str){
         if(str==null || str.length()==0)
             return null;
