@@ -1,4 +1,4 @@
-package chapter05.stringproblem;
+package chapter05_stringProblem;
 
 public class Subject01_IsDeformation {
     public static void main(String[] args) {

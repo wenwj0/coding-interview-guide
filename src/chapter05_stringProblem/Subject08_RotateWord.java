@@ -1,4 +1,4 @@
-package chapter05.stringproblem;
+package chapter05_stringProblem;
 
 public class Subject08_RotateWord {
     public static void main(String[] args) {

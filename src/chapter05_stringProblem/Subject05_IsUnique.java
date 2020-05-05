@@ -1,4 +1,4 @@
-package chapter05.stringproblem;
+package chapter05_stringProblem;
 
 public class Subject05_IsUnique {
     public boolean isUnique1(char[] chas){

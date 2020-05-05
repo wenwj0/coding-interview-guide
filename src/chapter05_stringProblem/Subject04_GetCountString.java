@@ -1,4 +1,4 @@
-package chapter05.stringproblem;
+package chapter05_stringProblem;
 
 public class Subject04_GetCountString {
     public String getCountString(String str){

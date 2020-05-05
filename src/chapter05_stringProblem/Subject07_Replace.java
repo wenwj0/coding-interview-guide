@@ -1,4 +1,4 @@
-package chapter05.stringproblem;
+package chapter05_stringProblem;
 
 public class Subject07_Replace {
     public void repalce(char[] chas){
@@ -33,4 +33,5 @@ public class Subject07_Replace {
             chas[j--] = '*';
         }
     }
+
 }

@@ -1,4 +1,4 @@
-package chapter05.stringproblem;
+package chapter05_stringProblem;
 
 public class Subject02_IsRotation {
     public boolean isRotation(String str1, String str2){
